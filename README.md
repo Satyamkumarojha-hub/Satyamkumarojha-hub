@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA8F7&height=180&section=header&text=Satyam%20Kumar%20Ojha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA8F7&height=180&section=header&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 # Hi, I'm Satyam Kumar Ojha 👋
 
 **AI/ML Developer&nbsp;&nbsp;•&nbsp;&nbsp;Full Stack Developer&nbsp;&nbsp;•&nbsp;&nbsp;Computer Vision&nbsp;&nbsp;•&nbsp;&nbsp;NLP**
-
+ 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2EA8F7&center=true&vCenter=true&width=560&height=30&lines=Building+real-world+AI+applications;Full+Stack+Developer+%7C+Python+%2B+JS;Exploring+Deep+Learning+%26+OpenCV" alt="Typing SVG" />
