@@ -1,164 +1,66 @@
-<div align="center">
+### 👋 Hi, I'm Satyam Kumar Ojha
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA8F7&height=200&section=header&text=Satyam%20Kumar%20Ojha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+**AI/ML Developer • Full Stack Developer • Computer Vision • NLP**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA8F7&center=true&vCenter=true&width=650&lines=Building+real-world+AI+applications;Full+Stack+Developer+%7C+Python+%2B+JavaScript;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Currently+exploring+OpenCV+%26+production+ML" alt="Typing SVG" />
+---
 
-<br/>
+### 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-ojha-603732316/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyamkumarojha-hub)
+- 🎓 Information Science Engineering student
+- 💻 Passionate about AI, Machine Learning & Computer Vision
+- 🚀 Building real-world AI applications and full stack products
+- 🌱 Currently exploring Deep Learning, OpenCV, and scalable web systems
 
-![Profile views](https://komarev.com/ghpvc/?username=Satyamkumarojha-hub&color=2EA8F7&style=flat-square&label=Profile+views)
+---
 
-</div>
+### 🛠 Tech Stack
 
-<br/>
+**🤖 AI / Machine Learning**
+Python, OpenCV, Streamlit, scikit-learn, TensorFlow, NLP, Computer Vision
 
-## 🧠 About Me
+**🌐 Web Development**
+HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS
 
-```yaml
-name: Satyam Kumar Ojha
-role: AI/ML Developer & Full Stack Developer
-education: Information Science Engineering
-focus: [Computer Vision, NLP, Full Stack Web Development]
-currently_learning: [Deep Learning, OpenCV, Scalable Systems]
-status: "Shipping side projects 🎯"
-```
+**⚙️ Backend**
+Node.js, Express.js, Next.js API Routes, REST APIs
 
-- 🔭 Building real-world AI applications and full stack products
-- 🌱 Currently deepening my knowledge in Deep Learning & Computer Vision
-- 🤝 Open to collaborating on AI, ML, and web dev projects
-- ⚡ I'd rather debug a model at 2 AM than leave a bug unsolved
+**🗄️ Databases**
+PostgreSQL, MongoDB
 
-<br/>
+**🛠️ Tools**
+Git, GitHub, VS Code, Postman, Vercel
 
-## 🛠 Tech Stack
+**💻 Languages**
+- Python ⭐⭐⭐⭐⭐
+- JavaScript ⭐⭐⭐⭐☆
+- Java ⭐⭐⭐☆☆
+- C ⭐⭐⭐☆☆
+- SQL ⭐⭐⭐⭐☆
 
-<div align="center">
+---
 
-**AI / Machine Learning**
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,sklearn" />
+### 🚀 Featured Projects
 
-<br/>
+- 🛡 **Escudo AI** — Real-time intelligent security engine combining facial recognition, behavioural anomaly detection, and USB/phone monitoring
+- 🔥 **Nayan AI** — AI-powered fire rescue assistant for visually impaired people
+- 📄 **AI Document Detector** — Streamlit-based AI document analysis app with real-time processing and visualization
+- 🎉 **NextBuzz** — Event management platform built for web development
+- 🌐 **SkillForge Portfolio** — Personal portfolio website
 
-**Web Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+---
 
-<br/>
+### 📊 GitHub Stats
 
-**Backend & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyamkumarojha-hub&show_icons=true&theme=radical)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkumarojha-hub&layout=compact&theme=radical)
 
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satyamkumarojha-hub&theme=radical)
 
-</div>
+---
 
-<br/>
-
-<div align="center">
-
-| Language | Proficiency |
-|:---|:---|
-| Python | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐☆ |
-| SQL | ⭐⭐⭐⭐☆ |
-| Java | ⭐⭐⭐☆☆ |
-| C | ⭐⭐⭐☆☆ |
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Escudo AI](https://github.com/Satyamkumarojha-hub/BINARY-BRAINS_-ESCUDO_AI)
-Real-time intelligent security engine — facial recognition, behavioural anomaly detection, USB & phone monitoring.
-
-`Python` `OpenCV` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 [Nayan AI](https://github.com/Satyamkumarojha-hub/Nayan-AI)
-AI-powered fire rescue assistant built for visually impaired people.
-
-`Python` `AI` `Accessibility`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 [AI Document Detector](https://github.com/Satyamkumarojha-hub/ai-document-detector-streamlit)
-Streamlit-based AI document analysis app with real-time processing and visualization.
-
-`Python` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎉 [NextBuzz](https://github.com/Satyamkumarojha-hub/nextbuzz)
-Full stack event management platform.
-
-`Next.js` `Web Dev`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [SkillForge Portfolio](https://github.com/Satyamkumarojha-hub/skillforge-portfolio)
-Personal developer portfolio site.
-
-`HTML` `CSS`
-
-</td>
-<td width="50%" valign="top">
-
-<sub>More projects on my <a href="https://github.com/Satyamkumarojha-hub?tab=repositories">repositories page →</a></sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satyamkumarojha-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkumarojha-hub&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamkumarojha-hub&theme=tokyonight&hide_border=true" width="60%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Satyamkumarojha-hub&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamkumarojha-hub&theme=tokyo-night&hide_border=true" width="90%" />
-
-</div>
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
+### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-ojha-603732316/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyamkumarojha-hub)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA8F7,100:0F2027&height=100&section=footer" width="100%" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyamkumarojha-hub)
