@@ -12,7 +12,6 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Shipping_side_projects-2EA8F7?style=flat-square)
 ![Location](https://img.shields.io/badge/Bengaluru,_India-000000?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -134,20 +133,7 @@ Personal portfolio website.
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satyamkumarojha-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="Satyam's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkumarojha-hub&layout=compact&theme=radical&hide_border=true" width="38%" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamkumarojha-hub&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Satyamkumarojha-hub&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ### 📫 Connect With Me
 
