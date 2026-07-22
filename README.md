@@ -145,6 +145,4 @@ Personal portfolio website.
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Satyamkumarojha-hub&color=2EA8F7&style=flat-square&label=Profile+views)
 
-</div>
