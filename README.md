@@ -8,10 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2EA8F7&center=true&vCenter=true&width=560&height=30&lines=Building+real-world+AI+applications;Full+Stack+Developer+%7C+Python+%2B+JS;Exploring+Deep+Learning+%26+OpenCV" alt="Typing SVG" />
 
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Shipping_side_projects-2EA8F7?style=flat-square)
-![Location](https://img.shields.io/badge/Bengaluru,_India-000000?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
